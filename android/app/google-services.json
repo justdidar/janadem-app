@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313888210330",
+    "project_id": "mdevfinalproject-4df13",
+    "storage_bucket": "mdevfinalproject-4df13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313888210330:android:e3cdba08387b59a0b08e23",
+        "android_client_info": {
+          "package_name": "com.sdu.janadem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FfnUQywA5mFAo5Baasq9AttTkGrL1sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
