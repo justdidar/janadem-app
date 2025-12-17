@@ -1,5 +1,3 @@
-<img width="360" height="805" alt="splashcreen" src="https://github.com/user-attachments/assets/60b36b68-f42b-417e-bcba-8dda502eabcf" /># janadem
-
 A new Flutter project.
 
 ## Getting Started
